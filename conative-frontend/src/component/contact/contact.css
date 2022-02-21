@@ -1,0 +1,39 @@
+#contact-page {
+    background-color: #fff;
+    padding: 82px;
+    border: ;
+    border-radius: 40px;
+    border: 5px solid #f96400;
+    width: 35%;
+    margin-right: 10%;
+}
+input, textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px 10px;
+    border-radius: 5px;
+    border: 1px solid #E2EAFA;
+    font-size: 18px;
+    line-height: 24px;
+    color: #33436D;
+    font-family: 'metropolismedium';
+    margin-top: 10px;
+}
+.label-contact {
+	float: left;
+}
+select {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px 10px;
+    border-radius: 5px;
+    border: 1px solid #E2EAFA;
+    font-size: 18px;
+    line-height: 24px;
+    color: #33436D;
+    font-family: 'metropolismedium';
+    margin-top: 10px;
+}
+/*.contact-form {
+    padding: 148px 0px 145px !important;
+}*/
